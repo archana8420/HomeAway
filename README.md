@@ -4,7 +4,7 @@ HomeAwayProject
 Project Name : Station
 Environment : Soap UI 
 Pre-requisite : 
-1) Install SoapUI from : 
+1) Install SoapUI Open Source from : https://www.soapui.org/downloads/soapui.html 
 2) Launch Soap UI 
 3) Save statio.xml on local disk 
 4) Click on "Import Project" from "File" menu within Soap UI and import the project.
